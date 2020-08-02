@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ox-game/static/css/main.8ce5d0a6.chunk.css",
+    "main.js": "/ox-game/static/js/main.2ad0e341.chunk.js",
+    "main.js.map": "/ox-game/static/js/main.2ad0e341.chunk.js.map",
+    "runtime-main.js": "/ox-game/static/js/runtime-main.67ae9d5f.js",
+    "runtime-main.js.map": "/ox-game/static/js/runtime-main.67ae9d5f.js.map",
+    "static/js/2.a741715f.chunk.js": "/ox-game/static/js/2.a741715f.chunk.js",
+    "static/js/2.a741715f.chunk.js.map": "/ox-game/static/js/2.a741715f.chunk.js.map",
+    "index.html": "/ox-game/index.html",
+    "precache-manifest.207b4575cb56c15013b44e073810edf5.js": "/ox-game/precache-manifest.207b4575cb56c15013b44e073810edf5.js",
+    "service-worker.js": "/ox-game/service-worker.js",
+    "static/css/main.8ce5d0a6.chunk.css.map": "/ox-game/static/css/main.8ce5d0a6.chunk.css.map",
+    "static/js/2.a741715f.chunk.js.LICENSE.txt": "/ox-game/static/js/2.a741715f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67ae9d5f.js",
+    "static/js/2.a741715f.chunk.js",
+    "static/css/main.8ce5d0a6.chunk.css",
+    "static/js/main.2ad0e341.chunk.js"
+  ]
+}
