@@ -1,0 +1,46 @@
+.btn {
+  position: relative;
+  padding: 60px 70px;
+  background-color: rgb(0, 0, 0, 1);
+  display: inline-block;
+  margin: 12px;
+  outline: none;
+  border: none;
+  font-size: 3em;
+  color: rgba(255, 255, 255);
+  font-weight: bold;
+  border-radius: 30px;
+  cursor: pointer;
+  left: 20px;
+  right: 200px;
+  top: 0px;
+}
+
+.musicBtn {
+  position: relative;
+  padding: 10px;
+  background-color: green;
+  display: inline-block;
+  margin: 4px;
+  font-size: 1em;
+  color: white;
+  border-radius: 50%;
+  font-weight: bold;
+  border: 2px solid black;
+}
+
+.container {
+  position: absolute;
+  width: 650px;
+  height: 620px;
+  border: 3px solid rgba(0, 0, 0, 1);
+  box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  padding: 10px;
+  box-sizing: border-box;
+  top: 0px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin: auto;
+}
